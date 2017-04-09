@@ -1,0 +1,2 @@
+# Tri-Repetae
+Artificial Intelligence
